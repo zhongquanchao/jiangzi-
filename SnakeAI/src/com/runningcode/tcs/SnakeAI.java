@@ -23,7 +23,7 @@ public class SnakeAI {
 
 	public static Direction autoPlay(int[][] map) {
 		
-		return Direction.left;
+		return Direction.down;
 	}
 	
 	
